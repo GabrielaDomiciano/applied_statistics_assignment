@@ -1,1 +1,1 @@
-# applied_statistics_-assignment
+# applied_statistics_assignment
