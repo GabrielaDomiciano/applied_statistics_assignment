@@ -9,7 +9,7 @@
 
 
 
-## Introduction 📊📈
+## Introduction 📊
 
 This project was developed as part of the 25/2 assessment for a Applied Statistics.  
 The goal of the assessment is to explore key concepts of **statistical inference** using **simulation**, implemented in **Python** with Jupyter Notebook.
